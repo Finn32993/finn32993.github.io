@@ -1,0 +1,7 @@
+weak nuclear force:
+
+Unlike the strong nuclear force, the weak nuclear force is not an interaction between different quarks but
+an interaction between different nucleons. However, the force carrying bosons can change the kind of a quark.
+The weak nuclear force plays part in nuclear fission and fusion. During beta- decay a down quark inside a
+neutron gets changed to an up quark, which results in the neutron turning into a proton and an electron
+getting ejected out of the atom. The Force carriers of the weak force are W+, W- and Z0 Bosons.

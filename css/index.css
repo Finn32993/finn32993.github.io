@@ -5,3 +5,23 @@
 .video {
     margin:4%;
 }
+
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }
+
+  main {
+    flex: 1 0 auto;
+  }
+
+footer {
+    position: absolute;
+    bottom: 0;
+
+}
+p {
+    font-size: large;
+
+}

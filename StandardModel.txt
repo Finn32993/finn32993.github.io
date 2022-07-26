@@ -1,0 +1,8 @@
+Standard Model:
+
+The standard model is the theory that is explaining the fundamental forces and the known elementary particles.
+It is devided into 2 main parts. Fermoins and bosons. Fermoins are the forms of matter like electrons, while
+bosons are carriers of Forces like photons. Fermoins are further devided into leptons and 1uarks. Quarks are
+subject to the strong nuclear force, which doesn't affect leptons. Each quark and lepton have a anti-part.
+The standard model was developed over a long time with some quite "recent" additions. For example the higgs
+boson was only discovered in 2011-2013 after it was theorised in 1964
