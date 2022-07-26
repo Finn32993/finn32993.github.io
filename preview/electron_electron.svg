@@ -6,7 +6,7 @@
 	<!ENTITY ns_xlink "http://www.w3.org/1999/xlink">
 ]>
 <svg  version="1.1" xmlns="&ns_svg;" xmlns:xlink="&ns_xlink;" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
-	 width="74.5" height="66" viewBox="-12 10.635 298 264" enable-background="new -12 10.635 298 264" xml:space="preserve">
+	 width="298" height="264" viewBox="-12 10.635 298 264" enable-background="new -12 10.635 298 264" xml:space="preserve">
 <defs>
 </defs>
 <g>
